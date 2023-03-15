@@ -5,12 +5,10 @@ The elite_keywords.py file fetches elite keywords from resumes of each category 
 Code in reference to our paper : [https://ieeexplore.ieee.org/document/10061036]
 
 ### Citation
-If using this code, please cite our work using :
+Please cite our paper if using this code :
 
 	M. Sharma, G. Choudhary and S. Susan, "Resume Classification using Elite Bag-of-Words Approach," 2023 5th International Conference on Smart Systems and Inventive Technology (ICSSIT), Tirunelveli, India, 2023, pp. 1409-1413, doi: 10.1109/ICSSIT55814.2023.10061036.
 Link of the article: https://ieeexplore.ieee.org/document/10061036
 
-Note :
-**Make sure to cite this paper before using the code 
 
 
